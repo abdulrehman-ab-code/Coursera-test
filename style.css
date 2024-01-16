@@ -1,5 +1,5 @@
 body{
-    background-color:beige;
+    background-color: #D2E3C8;
     
 }
 .blue {
@@ -10,13 +10,13 @@ body{
 
 }
 #intro {
-    color:darkcyan;
+    color:#D2E3C8;
     font: bolder;
     font-size: 20px;
     width: 200px;
     text-align:center;
     background-position: 20px;
-    background-color: blue;
+    background-color: #739072;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
     opacity: 80%; border-style:groove;
@@ -31,11 +31,11 @@ span {
     text-align: center; 
 }
 h1{
-    color: cadetblue;
+    color: #D2E3C8;
     font: italic;
     text-align: center;
     text-transform: capitalize;
-    background-color: darkblue; 
+    background-color: #4F6F52; 
     border-radius: 20px; 
     border-style: groove;
     width: 300px;
@@ -44,11 +44,12 @@ h1{
     opacity: 75%;
 }
 #heading {
-    color:cornflowerblue;
+    color:#739072;
     font-size: 30px;
-    width: 20px;
+    width: 183px;
     font: italic;
     font: bolder;
+    text-decoration: dotted underline;
 }
 img {
     width: 200px;
@@ -60,7 +61,18 @@ img {
     
 }
 a {
-    color:cornflowerblue;
+    color:#86A789;
     width: 20px;
     font-size: medium;
+}
+#phone {
+    color:#4F6F52;
+    font-size: larger;
+    font-weight: 700;
+}
+#email {
+    color:#4F6F52;
+    font-size: larger;
+    font-weight: 700;
+    line-height: 55px;
 }
